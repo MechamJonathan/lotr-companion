@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/MechamJonathan/palantir-cli/styles"
+	"github.com/MechamJonathan/lotr-companion/styles"
 )
 
 var exitQuotes = []string{
