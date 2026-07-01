@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/MechamJonathan/palantir-cli/internal/theoneapi"
+	"github.com/MechamJonathan/lotr-companion/internal/theoneapi"
 	"github.com/joho/godotenv"
 )
 

@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/MechamJonathan/palantir-cli/lotrcache"
+	"github.com/MechamJonathan/lotr-companion/lotrcache"
 )
 
 type Client struct {

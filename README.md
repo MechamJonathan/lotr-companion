@@ -1,3 +1,4 @@
+# LOTR Companion CLI
 <p align="center">
   <img src="https://github.com/MechamJonathan/lotr-companion-app/blob/main/img/Palantir.png" width="350" title="logo">
 </p>

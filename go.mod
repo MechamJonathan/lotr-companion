@@ -1,4 +1,4 @@
-module github.com/MechamJonathan/palantir-cli
+module github.com/MechamJonathan/lotr-companion
 
 go 1.23.5
 

@@ -6,8 +6,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/MechamJonathan/palantir-cli/internal/theoneapi"
-	"github.com/MechamJonathan/palantir-cli/styles"
+	"github.com/MechamJonathan/lotr-companion/internal/theoneapi"
+	"github.com/MechamJonathan/lotr-companion/styles"
 )
 
 var startUpQuotes = []string{
@@ -39,7 +39,7 @@ func startRepl(cfg *config) {
 	cfg.currentQuotePage = 0
 
 	for {
-		fmt.Print(styles.PalitirStyle.Render("Palantír"),
+		fmt.Print(styles.PromptStyle.Render("Palantir"),
 			styles.ArrowSymbol.Render(" > "))
 
 		reader.Scan()
